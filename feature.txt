@@ -1,2 +1,3 @@
 Added a feature
-Added a line
+Modified a line
+Added third line
