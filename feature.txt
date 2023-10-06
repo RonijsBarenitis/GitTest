@@ -1,3 +1,2 @@
-Added a feature
-Modified a line
-Added third line
+Here's my second feature!
+Better than the second feature!
